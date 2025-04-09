@@ -31,7 +31,16 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 | 3   | Git/GitHub na prática       | ⏳     |
 | ... |                             |        |
 
+---
+## 📁 Organização
 
+Cada projeto ou tarefa terá sua própria pasta dentro deste repositório.
+
+### Estrutura (em andamento):
+
+- [ 📁 dia01-integracao-setup](https://github.com/thiagogosilva/desafio-90dias-dev/blob/main/dia01-integracao-setup/anotacoes.md)
+
+- [ 📁 dia01-integracao-setup](./dia01-integracao-setup/anotacoes.md)
 ---
 
 ## 🙋🏻‍♂️ Sobre mim
@@ -50,4 +59,4 @@ Estou comprometido com esse desafio para adquirir experiência prática e me pre
 
 ## 🚀 Última atualização
 
-📅 09 de Abril de 2025
+📅 09 de Abril de 2025.
