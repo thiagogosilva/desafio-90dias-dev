@@ -23,7 +23,16 @@
 - Diferença entre repositório local e remoto
 - Estrutura básica de um README.md
 - Comandos iniciais importantes:
-  - `git status`
-  - `git add`
-  - `git commit -m`
-  - `git push origin main`
+  - `git status` # Verifica o estado atual dos arquivos (alterados, não salvos, etc)
+  - `git add`  # Adiciona o arquivo ao "staging", preparando para o commit
+  - `git commit -m` # Salva as alterações localmente com uma mensagem
+  - `git push origin main` # Envia as alterações locais para o repositório remoto (GitHub) 
+
+  ## 🧠 Comandos do Terminal (Prompt/PowerShell)
+  - `cd` nome-da-pasta # Entre na pasta especificada
+  - `cd ..` # Volta uma pasta (sobe um nível)
+  - `dir` # Lista os arquivos e pastas do diretório atual
+  - `mkdir` nome-da-pasta # Cria uma nova pasta com o nome especificado
+
+## 😊 Como me senti hoje
+Me senti desafiado no início com o Git, mas feliz por ter conseguido configurar tudo e fazer meu primeiro push com sucesso. Senti que estou no caminho certo.
