@@ -7,12 +7,12 @@ Este repositório contém os projetos e anotações do meu desafio de 90 dias, s
 
 ##  📌  Objetivo 
 
-Simular uma experiência realsita como estagiário DEV, passando por todas as fases de aprendizado, entregas e responsabilidades.
+Simular uma experiência realista como estagiário DEV, passando por todas as fases de aprendizado, entregas e responsabilidades.
 ---
 
 ## 🧠 Tecnologias Estudadas
 
-- HTML, CSS E JavaScript
+- HTML, CSS e JavaScript
 - Git e GitHub
 - React.js
 - Node.js + Express
@@ -44,7 +44,7 @@ Estou comprometido com esse desafio para adquirir experiência prática e me pre
 
 - [GitHub: @thiagogosilva](https://github.com/thiagogosilva)
 - [LinkedIn: Thiago Silva](https://www.linkedin.com/in/thiagogosilva/)
-- E-mail: thiagogosilva@icloud.com
+- [E-mail:] thiagogosilva@icloud.com
 
 ---
 
