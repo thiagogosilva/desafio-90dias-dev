@@ -44,7 +44,7 @@ Estou comprometido com esse desafio para adquirir experiência prática e me pre
 
 - [GitHub: @thiagogosilva](https://github.com/thiagogosilva)
 - [LinkedIn: Thiago Silva](https://www.linkedin.com/in/thiagogosilva/)
-- [E-mail:] thiagogosilva@icloud.com
+- E-mail: thiagogosilva@icloud.com
 
 ---
 
