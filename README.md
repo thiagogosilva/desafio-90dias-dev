@@ -51,6 +51,7 @@ Cada projeto ou tarefa terá sua própria pasta dentro deste repositório.
 ### Estrutura (em andamento):
 
 - [ 📁 dia01-integracao-setup](./dia01-integracao-setup/anotacoes.md)
+- [ 📁 dia02-mini-portfolio](./dia02-mini-portfolio/index.html)
 ---
 
 ## 🚀 Última atualização
