@@ -24,7 +24,7 @@
 - Estrutura básica de um README.md
 - Comandos iniciais importantes:
   - `git status` # Verifica o estado atual dos arquivos (alterados, não salvos, etc)
-  - `git add`  # Adiciona o arquivo ao "staging", preparando para o commit
+  - `git add .`  # Adiciona o arquivo ao "staging", preparando para o commit
   - `git commit -m` # Salva as alterações localmente com uma mensagem
   - `git push origin main` # Envia as alterações locais para o repositório remoto (GitHub) 
 

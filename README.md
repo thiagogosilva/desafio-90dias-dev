@@ -6,7 +6,7 @@ Este repositório contém os projetos e anotações do meu desafio de 90 dias, s
 ---
 ## 🙋🏻‍♂️ Sobre mim
 
-Meu nome é Thiago e estou em formação para me tornar um desenvolvedor.  
+Meu nome é Thiago Silva e estou em formação para me tornar um desenvolvedor.  
 Estou comprometido com esse desafio para adquirir experiência prática e me preparar para o mercado de trabalho.
 ---
 
@@ -39,7 +39,7 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 | Dia | Tópico                      | Status |
 |-----|-----------------------------|--------|
 | 1   | Integração e Setup          | ✅     |
-| 2   | Criação do Mini Portfólio   | 🔄     |
+| 2   | Criação do Mini Portfólio   | ✅     |
 | 3   | Git/GitHub na prática       | ⏳     |
 | ... |                             |        |
 
@@ -51,9 +51,9 @@ Cada projeto ou tarefa terá sua própria pasta dentro deste repositório.
 ### Estrutura (em andamento):
 
 - [ 📁 dia01-integracao-setup](./dia01-integracao-setup/anotacoes.md)
-- [ 📁 dia02-mini-portfolio](./dia02-mini-portfolio/index.html)
+- [ 📁 dia02-mini-portfolio](./dia02-mini-portfolio)
 ---
 
 ## 🚀 Última atualização
 
-📅 09 de Abril de 2025.
+📅 10 de Abril de 2025.
