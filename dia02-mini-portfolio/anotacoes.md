@@ -23,7 +23,7 @@
  - Adicionei CSS externo para estilizr meu projeto.
   Corrigi um problema onde o meu nome nao estava visível no cabeçalho por causa da cor do texto.
 
- ## Aprendizados:
+ ## 📚 Aprendizados:
  - Navegação no terminal de forma mais fluida.
  - Criação de pasta/arquivos direto pelo terminal.
  - Prática de versionamento com Git e envio para o GitHub.
