@@ -41,7 +41,7 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 | 1   | Integração e Setup          | ✅     |
 | 2   | Criação do Mini Portfólio   | ✅     |
 | 3   | Modo Escuro e Melhorias     | ✅     |
-| ... |                             |        |
+| 4   | To-Do List + LocalStorage   | ✅     |
 
 ---
 ## 📁 Organização
@@ -53,8 +53,9 @@ Cada projeto ou tarefa terá sua própria pasta dentro deste repositório.
 - [ 📁 dia01-integracao-setup](./dia01-integracao-setup/anotacoes.md)
 - [ 📁 dia02-mini-portfolio](./dia02-mini-portfolio)
 - [ 📁 dia03-modo-escuro-e-melhorias](./dia03-modo-escuro-e-melhorias/anotacoes.md)
+- [ 📁 dia04-to-do-list](./dia04-to-do-list/)
 ---
 
 ## 🚀 Última atualização
 
-📅 14 de Abril de 2025.
+📅 15 de Abril de 2025.
