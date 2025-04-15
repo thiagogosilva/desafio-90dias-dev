@@ -59,3 +59,5 @@ Cada projeto ou tarefa terá sua própria pasta dentro deste repositório.
 ## 🚀 Última atualização
 
 📅 15 de Abril de 2025.
+**Link para visualizar meu Mini Portfólio:**  
+🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
