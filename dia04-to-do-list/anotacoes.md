@@ -9,6 +9,7 @@
 - Remover tarefas com duplo clique
 - Adição de cursor pointer nas tarefas para melhor experiência.
 - Aprendizado e implementação do `localStorage` para salvar tarefas no navegador mesmo após atualizar ou fechar a aba
+- Responsividade completa aplicada via CSS para adaptar o layout em dispositivos móveis
 
 ## 💭 Observações:
 - Com apenas um erro de vírgula ao invés de ponto (JSON,stringify), o localStorage nao funcionava.
