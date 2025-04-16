@@ -1,4 +1,4 @@
-# Dia 05 - Projeto Gerador de Senhas Aleatórias
+# 📒 Dia 05 - Projeto Gerador de Senhas Aleatórias
 
 📅 Data: 16/04/2025
 
