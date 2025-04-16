@@ -26,3 +26,8 @@ Hoje finalizei mais um mini projeto do me desafio-90dias-dev: um Gerador de Senh
 - Interação com a área de transferência usando navigator.clipboard.writeText()
 - Feedback visual com mudanças no texto do botão e temporizador
 - Responsividade com CSS Flexbox e media queries
+
+## 🔗 Acesse o projeto
+
+Você pode visualizar o projeto em funcionamento aqui:  
+👉 [Gerador de Senha - GitHub Pages](https://thiagogosilva.github.io/gerador-senha/)

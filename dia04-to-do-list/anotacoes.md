@@ -22,3 +22,8 @@
 - Conversão de objetos com `JSON.parse()` para salvar e recuperar do `localStorage`.
 - Boas práticas para organização do código (funções reutilizáveis como `criarTarefa` e `salvarTarefa`).
 - Debug usando o console do navegador para encontrar erros de digitação.
+
+## 🔗 Acesse o projeto
+
+Você pode visualizar o projeto em funcionamento aqui:  
+👉 [To-Do List - GitHub Pages](https://thiagogosilva.github.io/to-do-list/)
