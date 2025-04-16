@@ -42,7 +42,7 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 | 2   | Criação do Mini Portfólio   | ✅     |
 | 3   | Modo Escuro e Melhorias     | ✅     |
 | 4   | To-Do List + LocalStorage   | ✅     |
-
+| 5   | Gerador de Senhas aleatório | ✅     |
 ---
 ## 📁 Organização
 
@@ -54,11 +54,12 @@ Cada projeto ou tarefa terá sua própria pasta dentro deste repositório.
 - [ 📁 dia02-mini-portfolio](./dia02-mini-portfolio)
 - [ 📁 dia03-modo-escuro-e-melhorias](./dia03-modo-escuro-e-melhorias/anotacoes.md)
 - [ 📁 dia04-to-do-list](./dia04-to-do-list/)
+- [ 📁 dia05-gerador-senhas](./dia05-gerador-senhas/)
 ---
 
 ## 🚀 Última atualização
 
-📅 15 de Abril de 2025.
+📅 16 de Abril de 2025.
 
 **Link para visualizar meu Mini Portfólio:**  
 🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
