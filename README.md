@@ -62,6 +62,7 @@ Converta entre diferentes moedas (BRL, USD, EUR) com cotação em tempo real via
 🔗 Acessar Projeto 👉 [Conversor de Moedas](https://github.com/thiagogosilva/conversor-moedas)
 🧠 Conceitos: consumo de APIs com `fetch`, tratamento de dados `JSON`, `async/await`, manipulação de formulários, animações com CSS.
 
+---
 📌 Cada projeto ou tarefa terá sua própria pasta dentro deste repositório. 
 Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho!
 
