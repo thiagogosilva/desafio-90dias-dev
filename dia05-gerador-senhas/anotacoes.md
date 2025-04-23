@@ -4,7 +4,7 @@
 
 Hoje finalizei mais um mini projeto do me desafio-90dias-dev: um Gerador de Senhas Aleatórias com HTML, CSS e JavaScript puro.
 
-## ✅ Atvidades Realizadas:
+## ✅ Atividades Realizadas:
 
 - Definir o comprimento da senha via slider (de 4 a 30 caracteres)
 - Selecionar quais tipos de caracteres incluir:
