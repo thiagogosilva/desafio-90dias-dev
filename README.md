@@ -1,16 +1,16 @@
-# desafio-90dias-dev
+# 🚀 Desafio 90 Dias Estagiário DEV
 
 Desafio de 90 dias para simular a rotina de um estagiário DEV 💻🚀
 
 Este repositório contém os projetos e anotações do meu desafio de 90 dias, simulando a rotina de um estagiário DEV.
 ---
-# 🙋🏻‍♂️ Sobre mim
+## 🙋🏻‍♂️ Sobre mim
 
 Meu nome é Thiago Silva e estou em formação para me tornar um desenvolvedor.  
 Estou comprometido com esse desafio para adquirir experiência prática e me preparar para o mercado de trabalho.
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 - [GitHub: @thiagogosilva](https://github.com/thiagogosilva)
 - [LinkedIn: Thiago Silva](https://www.linkedin.com/in/thiagogosilva/)
@@ -36,14 +36,14 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 
 ## 🗓️ Progresso
 
-| Dia | Tópico                      | Status |
-|-----|-----------------------------|--------|
-| 1   | Integração e Setup          | ✅     |
-| 2   | Criação do Mini Portfólio   | ✅     |
-| 3   | Modo Escuro e Melhorias     | ✅     |
-| 4   | To-Do List + LocalStorage   | ✅     |
-| 5   | Gerador de Senhas aleatório | ✅     |
-| 6   | Conversor de Moedas         | ✅     |
+| Dia | Tópico                       | Status |
+|-----|------------------------------|--------|
+| 1   | Integração e Setup           | ✅     |
+| 2   | Criação do Mini Portfólio    | ✅     |
+| 3   | Modo Escuro e Melhorias      | ✅     |
+| 4   | To-Do List + LocalStorage    | ✅     |
+| 5   | Gerador de Senhas aleatórias | ✅     |
+| 6   | Conversor de Moedas          | ✅     |
 ---
 ## 📁 Organização
 
@@ -76,6 +76,11 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia04-to-do-list](./dia04-to-do-list/)
 - [ 📁 dia05-gerador-senhas](./dia05-gerador-senhas/)
 - [ 📁 dia06-conversor-moedas](./dia06-conversor-moedas/)
+---
+
+✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional.
+
+Obrigado por acompanhar essa jornada! 🙌
 ---
 
 ## 🚀 Última atualização
