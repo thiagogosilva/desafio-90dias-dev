@@ -48,19 +48,19 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 ## 📁 Organização
 
 ### ✅ Mini Projeto To-Do List
-Aplicação simples para adicionar, riscar e remover tarefas da lista.
-🔗 Acessar Projeto 👉 [To-Do List](https://github.com/thiagogosilva/to-do-list)
-🧠 Conceitos: `DOM`, eventos de clique, manipulação de listas.
+- Aplicação simples para adicionar, riscar e remover tarefas da lista.
+- 🔗 Acessar Projeto 👉 [To-Do List](https://github.com/thiagogosilva/to-do-list)
+- 🧠 Conceitos: `DOM`, eventos de clique, manipulação de listas.
 
 ### ✅ Mini Projeto Gerador de Senhas
-Ferramenta para gerar senhas seguras com opções personalizadas (comprimento, maiúsculas, minúsculas, números e símbolos).
-🔗 Acessar Projeto 👉 [Gerador de Senha](https://github.com/thiagogosilva/gerador-senha)
-🧠 Conceitos: `Math.random()`, `manipulação de inputs`, `checkboxes`, `navigator.clipboard`.
+- Ferramenta para gerar senhas seguras com opções personalizadas (comprimento, maiúsculas, minúsculas, números e símbolos).
+- 🔗 Acessar Projeto 👉 [Gerador de Senha](https://github.com/thiagogosilva/gerador-senha)
+- 🧠 Conceitos: `Math.random()`, `manipulação de inputs`, `checkboxes`, `navigator.clipboard`.
 
 ### ✅ Mini Projeto Conversor de Moedas
-Converta entre diferentes moedas (BRL, USD, EUR) com cotação em tempo real via API externa.
-🔗 Acessar Projeto 👉 [Conversor de Moedas](https://github.com/thiagogosilva/conversor-moedas)
-🧠 Conceitos: consumo de APIs com `fetch`, tratamento de dados `JSON`, `async/await`, manipulação de formulários, animações com CSS.
+- Converta entre diferentes moedas (BRL, USD, EUR) com cotação em tempo real via API externa.
+- 🔗 Acessar Projeto 👉 [Conversor de Moedas](https://github.com/thiagogosilva/conversor-moedas)
+- 🧠 Conceitos: consumo de APIs com `fetch`, tratamento de dados `JSON`, `async/await`, manipulação de formulários, animações com CSS.
 
 ---
 📌 Cada projeto ou tarefa terá sua própria pasta dentro deste repositório. 
