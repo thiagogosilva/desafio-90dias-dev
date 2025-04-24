@@ -8,7 +8,7 @@
 - Clonagem do repositório para a máquina local
 - Configuração do ambiente com VSCode
 - Criação do arquivo README.md
-- Primeiros comandos com Git (`git status`, `git add`, `git commit`, `git push`)
+- Primeiros comandos com Git (`git status`, `git add .`, `git commit`, `git push`)
 - Organização inicial do repositório
 
 ## 💭 Observações
@@ -33,6 +33,8 @@
   - `cd ..` # Volta uma pasta (sobe um nível)
   - `dir` # Lista os arquivos e pastas do diretório atual
   - `mkdir` nome-da-pasta # Cria uma nova pasta com o nome especificado
+  - `rmdir` # Apaga uma pasta/arquivo
+  - `echo "" >` arquivo.extensão # Cria um arquivo com conteúdo (ou vazio)
 
 ## 😊 Como me senti hoje
 Me senti desafiado no início com o Git, mas feliz por ter conseguido configurar tudo e fazer meu primeiro push com sucesso. Senti que estou no caminho certo.
