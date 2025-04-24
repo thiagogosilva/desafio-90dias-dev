@@ -85,13 +85,10 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 ---
 
 ✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional.
-
 Obrigado por acompanhar essa jornada! 🙌
 ---
 
-## 🚀 Última atualização
+## 🚀 Última atualização:   📅 24 de Abril de 2025.
 
-📅 24 de Abril de 2025.
-
-**Link para visualizar meu Mini Portfólio:**  
-🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
+**🔗 Link para visualizar meu Mini Portfólio:**  
+[Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
