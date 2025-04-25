@@ -1,5 +1,7 @@
 # 📒 Dia 07 - Calculadora de IMC
 
+📅 Data: 24/04/2025
+
 ## 🧠 O que aprendi hoje:
 
 - Como calcular o IMC utilizando JavaScript: `IMC = peso / (altura * altura)`

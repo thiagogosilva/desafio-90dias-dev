@@ -45,6 +45,7 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 | 5   | Gerador de Senhas aleatórias | ✅     |
 | 6   | Conversor de Moedas          | ✅     |
 | 7   | Calculadora IMC              | ✅     |
+| 8   | Cronômetro / Timer           | ✅     |
 ---
 ## 📁 Organização
 
@@ -67,6 +68,11 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 - Aplicação que calcula o Índice de Massa Corporal com base no peso e altura do usuário, informando a classificação (abaixo do peso, normal, sobrepeso, obesidade, etc). Também mostra o intervalo de peso ideal com base na altura.
 - 🔗 Acessar Projeto 👉 [Calculadora de IMC](https://github.com/thiagogosilva/calculadora-imc)
 - 🧠 Conceitos: `manipulação de formulários`, `condições (if/else)`, `cálculos matemáticos`, boas práticas de UX e interação com usuário.
+
+### ✅ Mini Projeto Cronômetro com Timer
+- Cronômetro que permite iniciar, pausar e resetar o tempo, além de incluir a funcionalidade de contagem regressiva (Timer) com tempo personalizado definido pelo usuário.
+- 🔗 Acessar Projeto 👉 [Cronômetro com Timer]()
+- 🧠 Conceitos: `setInterval`, `clearInterval`, controle de tempo (horas, minutos, segundos), formatação com `padStart`, eventos de clique, manipulação do `DOM`, lógica de Timer regressivo.
 ---
 📌 Cada projeto ou tarefa terá sua própria pasta dentro deste repositório. 
 Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho!
@@ -82,11 +88,12 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia05-gerador-senhas](./dia05-gerador-senhas/)
 - [ 📁 dia06-conversor-moedas](./dia06-conversor-moedas/)
 - [ 📁 dia07-calculadora-imc](./dia07-calculadora-imc/)
+- [ 📁 dia08-cronometro](./dia08-cronometro/)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
 
-## 📅 Última atualização: 24 de Abril de 2025.
+## 📅 Última atualização: 25 de Abril de 2025.
 
 **🔗 Link para visualizar meu Mini Portfólio:**  
 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
