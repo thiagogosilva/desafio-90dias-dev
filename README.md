@@ -46,6 +46,7 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 | 6   | Conversor de Moedas          | ✅     |
 | 7   | Calculadora IMC              | ✅     |
 | 8   | Cronômetro / Timer           | ✅     |
+| 9   | Contador de Caracteres       | ✅     |
 ---
 ## 📁 Organização
 
@@ -73,6 +74,12 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 - Cronômetro que permite iniciar, pausar e resetar o tempo, além de incluir a funcionalidade de contagem regressiva (Timer) com tempo personalizado definido pelo usuário.
 - 🔗 Acessar Repositório 👉 [Cronômetro com Timer](https://github.com/thiagogosilva/cronometro)
 - 🧠 Conceitos: `setInterval`, `clearInterval`, controle de tempo (horas, minutos, segundos), formatação com `padStart`, eventos de clique, manipulação do `DOM`, lógica de Timer regressivo.
+
+### ✅ Mini Projeto Contador de Caracteres e Palavras
+- Ferramenta para contar caracteres (com e sem espaços), palavras e exibir alerta quando o limite de 200 caracteres for ultrapassado.
+- 🔗 Acessar Repositório 👉 [Contador de Caracteres](https://github.com/thiagogosilva/contador-caracteres)
+- 🧠 Conceitos: `manipulação de texto`, `eventos de input`, `DOM`, `limite de caracteres`, `operações com strings`, e feedback visual com CSS.
+
 ---
 📌 Cada projeto ou tarefa terá sua própria pasta dentro deste repositório. 
 Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho!
@@ -89,11 +96,12 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia06-conversor-moedas](./dia06-conversor-moedas/)
 - [ 📁 dia07-calculadora-imc](./dia07-calculadora-imc/)
 - [ 📁 dia08-cronometro](./dia08-cronometro/)
+- [ 📁 dia09-contador-caracteres](./dia09-contador-caracteres/)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
 
-## 📅 Última atualização: 25 de Abril de 2025.
+## 📅 Última atualização: 05 de Maio de 2025.
 
 **🔗 Link para visualizar meu Mini Portfólio:**  
 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
