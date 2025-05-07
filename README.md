@@ -36,17 +36,18 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 
 ## 🗓️ Progresso
 
-| Dia | Tópico                       | Status |
-|-----|------------------------------|--------|
-| 1   | Integração e Setup           | ✅     |
-| 2   | Criação do Mini Portfólio    | ✅     |
-| 3   | Modo Escuro e Melhorias      | ✅     |
-| 4   | To-Do List + LocalStorage    | ✅     |
-| 5   | Gerador de Senhas aleatórias | ✅     |
-| 6   | Conversor de Moedas          | ✅     |
-| 7   | Calculadora IMC              | ✅     |
-| 8   | Cronômetro / Timer           | ✅     |
-| 9   | Contador de Caracteres       | ✅     |
+| Dia | Tópico                              | Status |
+|-----|-------------------------------------|--------|
+| 1   | Integração e Setup                  | ✅     |
+| 2   | Criação do Mini Portfólio           | ✅     |
+| 3   | Modo Escuro e Melhorias             | ✅     |
+| 4   | To-Do List + LocalStorage           | ✅     |
+| 5   | Gerador de Senhas aleatórias        | ✅     |
+| 6   | Conversor de Moedas                 | ✅     |
+| 7   | Calculadora IMC                     | ✅     |
+| 8   | Cronômetro / Timer                  | ✅     |
+| 9   | Contador de Caracteres              | ✅     |
+| 10  | Plataforma de Estudos Colaborativos | ✅     |
 ---
 ## 📁 Organização
 
@@ -97,11 +98,12 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia07-calculadora-imc](./dia07-calculadora-imc/)
 - [ 📁 dia08-cronometro](./dia08-cronometro/)
 - [ 📁 dia09-contador-caracteres](./dia09-contador-caracteres/)
+- [ 📁 dia10-plataforma-estudos](./dia10-plataforma-estudos/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
 
-## 📅 Última atualização: 05 de Maio de 2025.
+## 📅 Última atualização: 07 de Maio de 2025.
 
 **🔗 Link para visualizar meu Mini Portfólio:**  
 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
