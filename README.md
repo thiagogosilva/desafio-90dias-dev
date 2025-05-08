@@ -36,20 +36,26 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 
 ## 🗓️ Progresso
 
-| Dia | Tópico                              | Status |
-|-----|-------------------------------------|--------|
-| 1   | Integração e Setup                  | ✅     |
-| 2   | Criação do Mini Portfólio           | ✅     |
-| 3   | Modo Escuro e Melhorias             | ✅     |
-| 4   | To-Do List + LocalStorage           | ✅     |
-| 5   | Gerador de Senhas aleatórias        | ✅     |
-| 6   | Conversor de Moedas                 | ✅     |
-| 7   | Calculadora IMC                     | ✅     |
-| 8   | Cronômetro / Timer                  | ✅     |
-| 9   | Contador de Caracteres              | ✅     |
-| 10  | Plataforma de Estudos Colaborativos | ✅     |
+| Dia | Tópico                                                 | Status |
+|-----|--------------------------------------------------------|--------|
+| 1   | Integração e Setup                                     | ✅     |
+| 2   | Criação do Mini Portfólio                              | ✅     |
+| 3   | Modo Escuro e Melhorias                                | ✅     |
+| 4   | To-Do List + LocalStorage                              | ✅     |
+| 5   | Gerador de Senhas aleatórias                           | ✅     |
+| 6   | Conversor de Moedas                                    | ✅     |
+| 7   | Calculadora IMC                                        | ✅     |
+| 8   | Cronômetro / Timer                                     | ✅     |
+| 9   | Contador de Caracteres                                 | ✅     |
+| 10  | Plataforma de Estudos Colaborativos (Setup)            | ✅     |
+| 11  | Backend com Node.js + MongoDB (Setup e rotas iniciais) | ✅     |
 ---
 ## 📁 Organização
+
+### ✅ Projeto Plataforma de Estudos Colaborativos
+- Aplicação completa (frontend + backend) para criar, gerenciar e compartilhar resumos e flashcards entre estudantes.
+- 🔗 Acessar Repositório 👉 [Plataforma de Estudos](https://github.com/thiagogosilva/plataforma-estudos)
+- 🧠 Conceitos: `React.js`, `Node.js`, `Express`, `MongoDB Atlas`, `API REST`, `Axios`, organização em `models`, `routes` e `controllers`, consumo de API no frontend, autenticação de usuário (futuro), deploy em nuvem (futuro).
 
 ### ✅ Mini Projeto To-Do List
 - Aplicação simples para adicionar, riscar e remover tarefas da lista.
@@ -99,11 +105,12 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia08-cronometro](./dia08-cronometro/)
 - [ 📁 dia09-contador-caracteres](./dia09-contador-caracteres/)
 - [ 📁 dia10-plataforma-estudos](./dia10-plataforma-estudos/anotacoes.md)
+- [ 📁 dia11-backend-setup](./dia11-backend-setup/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
 
-## 📅 Última atualização: 07 de Maio de 2025.
+## 📅 Última atualização: 08 de Maio de 2025.
 
 **🔗 Link para visualizar meu Mini Portfólio:**  
 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
