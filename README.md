@@ -48,7 +48,8 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 | 8   | Cronômetro / Timer                                     | ✅     |
 | 9   | Contador de Caracteres                                 | ✅     |
 | 10  | Plataforma de Estudos Colaborativos (Setup)            | ✅     |
-| 11  | Backend com Node.js + MongoDB (Setup e rotas iniciais) | ✅     |
+| 11  | Backend + Node.js + MongoDB (Setup e rotas iniciais)   | ✅     |
+| 12  | Backend + MongoDB + Postman                            | ✅     |
 ---
 ## 📁 Organização
 
@@ -106,6 +107,7 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia09-contador-caracteres](./dia09-contador-caracteres/)
 - [ 📁 dia10-plataforma-estudos](./dia10-plataforma-estudos/anotacoes.md)
 - [ 📁 dia11-backend-setup](./dia11-backend-setup/anotacoes.md)
+- [ 📁 dia12-backend-mongoose](./dia12-backend-mongoose/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**

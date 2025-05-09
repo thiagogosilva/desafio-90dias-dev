@@ -1,4 +1,4 @@
-# 📅 Dia 10 - Desafio 90 Dias DEV
+# 📒 Dia 10 - Desafio 90 Dias DEV
 
 📅 Data: 05/05/2025
 
