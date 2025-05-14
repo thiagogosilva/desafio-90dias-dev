@@ -34,6 +34,21 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 
 ---
 
+## 🧠 Projeto atual: Plataforma de Estudos Colaborativa
+
+Uma aplicação onde usuários podem:
+- Criar, listar, editar e deletar **resumos**
+- Criar, listar, editar e deletar **flashcards**
+- (Em breve) Compartilhar, pesquisar e interagir com conteúdos
+
+### Tecnologias usadas no backend:
+- Node.js + Express
+- MongoDB Atlas + Mongoose
+- Testes com Postman
+- Validações e tratamento de erros
+- Organização com MVC (Models, Controllers, Routes)
+---
+
 ## 🗓️ Progresso
 
 | Dia | Tópico                                                 | Status |
@@ -50,6 +65,7 @@ Simular uma experiência realista como estagiário DEV, passando por todas as fa
 | 10  | Plataforma de Estudos Colaborativos (Setup)            | ✅     |
 | 11  | Backend + Node.js + MongoDB (Setup e rotas iniciais)   | ✅     |
 | 12  | Backend + MongoDB + Postman                            | ✅     |
+| 13  | Rotas PUT & DELETE + Validações                        | ✅     |
 ---
 ## 📁 Organização
 
@@ -108,6 +124,7 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia10-plataforma-estudos](./dia10-plataforma-estudos/anotacoes.md)
 - [ 📁 dia11-backend-setup](./dia11-backend-setup/anotacoes.md)
 - [ 📁 dia12-backend-mongoose](./dia12-backend-mongoose/anotacoes.md)
+- [ 📁 dia13-put-delete-validacoes](./dia13-put-delete-validacoes/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
