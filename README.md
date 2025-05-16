@@ -66,6 +66,8 @@ Uma aplicação onde usuários podem:
 | 11  | Backend + Node.js + MongoDB (Setup e rotas iniciais)   | ✅     |
 | 12  | Backend + MongoDB + Postman                            | ✅     |
 | 13  | Rotas PUT & DELETE + Validações                        | ✅     |
+| 14  | Integração do frontend com o backend                   | ✅     |
+| 15  |                                                        | 🔁     |
 ---
 ## 📁 Organização
 
@@ -125,11 +127,12 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia11-backend-setup](./dia11-backend-setup/anotacoes.md)
 - [ 📁 dia12-backend-mongoose](./dia12-backend-mongoose/anotacoes.md)
 - [ 📁 dia13-put-delete-validacoes](./dia13-put-delete-validacoes/anotacoes.md)
+- [ 📁 dia14-integracao-frontend](./dia14-integracao-frontend/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
 
-## 📅 Última atualização: 08 de Maio de 2025.
+## 📅 Última atualização: 16 de Maio de 2025.
 
 **🔗 Link para visualizar meu Mini Portfólio:**  
 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
