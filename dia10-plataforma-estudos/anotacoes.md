@@ -1,6 +1,6 @@
 # 📒 Dia 10 - Desafio 90 Dias DEV
 
-📅 Data: 05/05/2025
+📅 Data: 06/05/2025
 
 ## 📌 Resumo do dia
 Início do projeto grande: **Plataforma de Estudos Colaborativos**
