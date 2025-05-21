@@ -68,7 +68,8 @@ Uma aplicação onde usuários podem:
 | 13  | Rotas PUT & DELETE + Validações                        | ✅     |
 | 14  | Integração do frontend com o backend                   | ✅     |
 | 15  | Fluxo de CRUD e Frontend (cadastros de resumos)        | ✅     |
-| 16  |                                                        | 🔁     |
+| 16  | Exclusão (DELETE) e Edição (PUT)                       | ✅     |
+| 17  | Organizar e criar interfaces dos flashcards            | 🔁     |
 ---
 ## 📁 Organização
 
@@ -130,11 +131,12 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia13-put-delete-validacoes](./dia13-put-delete-validacoes/anotacoes.md)
 - [ 📁 dia14-integracao-frontend](./dia14-integracao-frontend/anotacoes.md)
 - [ 📁 dia15-cadastro-resumos-frontend](./dia15-cadastro-resumos-frontend/anotacoes.md)
+- [ 📁 dia16-edicao-exclusao](./dia16-edicao-exclusao/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
 
-## 📅 Última atualização: 20 de Maio de 2025.
+## 📅 Última atualização: 21 de Maio de 2025.
 
 **🔗 Link para visualizar meu Mini Portfólio:**  
 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
