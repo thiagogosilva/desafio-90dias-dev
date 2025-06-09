@@ -72,7 +72,8 @@ Uma aplicação onde usuários podem:
 | 17  | Organizar e criar interfaces dos flashcards            | ✅     |
 | 18  | Fluxo de CRUD e Frontend (cadastros de flashcards)     | ✅     |
 | 19  | Aprimorar o formulário com validações adicionais       | ✅     |
-| 20  | Implementar a edição de flashcards                     | 🔁     |
+| 20  | Implementar a edição de flashcards                     | ✅     |
+| 21  | Implementar botão "Cancelar Edição" de flashcards      | 🔁     |
 ---
 ## 📁 Organização
 
@@ -138,11 +139,12 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia17-listagem-flashcards](./dia17-listagem-flashcards/anotacoes.md)
 - [ 📁 dia18-cadastro-flashcards](./dia18-cadastro-flashcards/anotacoes.md)
 - [ 📁 dia19-crud-edicao](./dia19-crud-edicao/anotacoes.md)
+- [ 📁 dia20-edicao-flashcards](./dia20-edicao-flashcards/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
 
-## 📅 Última atualização: 28 de Maio de 2025.
+## 📅 Última atualização: 09 de Junho de 2025.
 
 **🔗 Link para visualizar meu Mini Portfólio:**  
 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
