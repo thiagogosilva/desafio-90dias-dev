@@ -51,29 +51,30 @@ Uma aplicação onde usuários podem:
 
 ## 🗓️ Progresso
 
-| Dia | Tópico                                                 | Status |
-|-----|--------------------------------------------------------|--------|
-| 1   | Integração e Setup                                     | ✅     |
-| 2   | Criação do Mini Portfólio                              | ✅     |
-| 3   | Modo Escuro e Melhorias                                | ✅     |
-| 4   | To-Do List + LocalStorage                              | ✅     |
-| 5   | Gerador de Senhas aleatórias                           | ✅     |
-| 6   | Conversor de Moedas                                    | ✅     |
-| 7   | Calculadora IMC                                        | ✅     |
-| 8   | Cronômetro / Timer                                     | ✅     |
-| 9   | Contador de Caracteres                                 | ✅     |
-| 10  | Plataforma de Estudos Colaborativos (Setup)            | ✅     |
-| 11  | Backend + Node.js + MongoDB (Setup e rotas iniciais)   | ✅     |
-| 12  | Backend + MongoDB + Postman                            | ✅     |
-| 13  | Rotas PUT & DELETE + Validações                        | ✅     |
-| 14  | Integração do frontend com o backend                   | ✅     |
-| 15  | Fluxo de CRUD e Frontend (cadastros de resumos)        | ✅     |
-| 16  | Exclusão (DELETE) e Edição (PUT)                       | ✅     |
-| 17  | Organizar e criar interfaces dos flashcards            | ✅     |
-| 18  | Fluxo de CRUD e Frontend (cadastros de flashcards)     | ✅     |
-| 19  | Aprimorar o formulário com validações adicionais       | ✅     |
-| 20  | Implementar a edição de flashcards                     | ✅     |
-| 21  | Implementar botão "Cancelar Edição" de flashcards      | 🔁     |
+| Dia | Tópico                                                      | Status |
+|-----|-------------------------------------------------------------|--------|
+| 1   | Integração e Setup                                          | ✅     |
+| 2   | Criação do Mini Portfólio                                   | ✅     |
+| 3   | Modo Escuro e Melhorias                                     | ✅     |
+| 4   | To-Do List + LocalStorage                                   | ✅     |
+| 5   | Gerador de Senhas aleatórias                                | ✅     |
+| 6   | Conversor de Moedas                                         | ✅     |
+| 7   | Calculadora IMC                                             | ✅     |
+| 8   | Cronômetro / Timer                                          | ✅     |
+| 9   | Contador de Caracteres                                      | ✅     |
+| 10  | Plataforma de Estudos Colaborativos (Setup)                 | ✅     |
+| 11  | Backend + Node.js + MongoDB (Setup e rotas iniciais)        | ✅     |
+| 12  | Backend + MongoDB + Postman                                 | ✅     |
+| 13  | Rotas PUT & DELETE + Validações                             | ✅     |
+| 14  | Integração do frontend com o backend                        | ✅     |
+| 15  | Fluxo de CRUD e Frontend (cadastros de resumos)             | ✅     |
+| 16  | Exclusão (DELETE) e Edição (PUT)                            | ✅     |
+| 17  | Organizar e criar interfaces dos flashcards                 | ✅     |
+| 18  | Fluxo de CRUD e Frontend (cadastros de flashcards)          | ✅     |
+| 19  | Aprimorar o formulário com validações adicionais            | ✅     |
+| 20  | Implementar a edição de flashcards                          | ✅     |
+| 21  | Implementar botão "Cancelar Edição" de flashcards           | ✅     |
+| 22  | Refinar os feedbacks ao usuário + botao "Deletar" flashcard | 🔁     |
 ---
 ## 📁 Organização
 
@@ -140,6 +141,7 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia18-cadastro-flashcards](./dia18-cadastro-flashcards/anotacoes.md)
 - [ 📁 dia19-crud-edicao](./dia19-crud-edicao/anotacoes.md)
 - [ 📁 dia20-edicao-flashcards](./dia20-edicao-flashcards/anotacoes.md)
+- [ 📁 dia21-cancelar-edicao-flashcard](./dia21-cancelar-edicao-flashcard/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
