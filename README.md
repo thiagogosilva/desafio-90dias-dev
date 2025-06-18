@@ -74,7 +74,8 @@ Uma aplicação onde usuários podem:
 | 19  | Aprimorar o formulário com validações adicionais            | ✅     |
 | 20  | Implementar a edição de flashcards                          | ✅     |
 | 21  | Implementar botão "Cancelar Edição" de flashcards           | ✅     |
-| 22  | Refinar os feedbacks ao usuário + botao "Deletar" flashcard | 🔁     |
+| 22  | Refinar os feedbacks ao usuário + botao "Deletar" flashcard | ✅     |
+| 23  | Adicionar um estado de *loading* visual nos botões          | 🔁     |
 ---
 ## 📁 Organização
 
@@ -142,6 +143,7 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia19-crud-edicao](./dia19-crud-edicao/anotacoes.md)
 - [ 📁 dia20-edicao-flashcards](./dia20-edicao-flashcards/anotacoes.md)
 - [ 📁 dia21-cancelar-edicao-flashcard](./dia21-cancelar-edicao-flashcard/anotacoes.md)
+- [ 📁 dia22-delete-flashcards](./dia22-delete-flashcards/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
