@@ -76,7 +76,8 @@ Uma aplicação onde usuários podem:
 | 21  | Implementar botão "Cancelar Edição" de flashcards           | ✅     |
 | 22  | Refinar os feedbacks ao usuário + botao "Deletar" flashcard | ✅     |
 | 23  | Sistema de notificações "toast" mais profissional           | ✅     |
-| 24  | Adicionar um estado de *loading* visual nos botões          | 🔁     |
+| 24  | Adicionar um estado de *loading* visual nos botões          | ✅     |
+| 25  | Implementar um campo de **busca/filtro** para os Resumos    | ✅     |
 ---
 ## 📁 Organização
 
@@ -146,11 +147,12 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia21-cancelar-edicao-flashcard](./dia21-cancelar-edicao-flashcard/anotacoes.md)
 - [ 📁 dia22-delete-flashcards](./dia22-delete-flashcards/anotacoes.md)
 - [ 📁 dia23-feedback-com-toasts](./dia23-feedback-com-toasts/anotacoes.md)
+- [ 📁 dia24-loading-e-mostrar-mais](./dia24-loading-e-mostrar-mais/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
 
-## 📅 Última atualização: 09 de Junho de 2025.
+## 📅 Última atualização: 12 de Agosto de 2025.
 
 **🔗 Link para visualizar meu Mini Portfólio:**  
 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
