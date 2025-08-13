@@ -51,33 +51,34 @@ Uma aplicação onde usuários podem:
 
 ## 🗓️ Progresso
 
-| Dia | Tópico                                                      | Status |
-|-----|-------------------------------------------------------------|--------|
-| 1   | Integração e Setup                                          | ✅     |
-| 2   | Criação do Mini Portfólio                                   | ✅     |
-| 3   | Modo Escuro e Melhorias                                     | ✅     |
-| 4   | To-Do List + LocalStorage                                   | ✅     |
-| 5   | Gerador de Senhas aleatórias                                | ✅     |
-| 6   | Conversor de Moedas                                         | ✅     |
-| 7   | Calculadora IMC                                             | ✅     |
-| 8   | Cronômetro / Timer                                          | ✅     |
-| 9   | Contador de Caracteres                                      | ✅     |
-| 10  | Plataforma de Estudos Colaborativos (Setup)                 | ✅     |
-| 11  | Backend + Node.js + MongoDB (Setup e rotas iniciais)        | ✅     |
-| 12  | Backend + MongoDB + Postman                                 | ✅     |
-| 13  | Rotas PUT & DELETE + Validações                             | ✅     |
-| 14  | Integração do frontend com o backend                        | ✅     |
-| 15  | Fluxo de CRUD e Frontend (cadastros de resumos)             | ✅     |
-| 16  | Exclusão (DELETE) e Edição (PUT)                            | ✅     |
-| 17  | Organizar e criar interfaces dos flashcards                 | ✅     |
-| 18  | Fluxo de CRUD e Frontend (cadastros de flashcards)          | ✅     |
-| 19  | Aprimorar o formulário com validações adicionais            | ✅     |
-| 20  | Implementar a edição de flashcards                          | ✅     |
-| 21  | Implementar botão "Cancelar Edição" de flashcards           | ✅     |
-| 22  | Refinar os feedbacks ao usuário + botao "Deletar" flashcard | ✅     |
-| 23  | Sistema de notificações "toast" mais profissional           | ✅     |
-| 24  | Adicionar um estado de *loading* visual nos botões          | ✅     |
-| 25  | Implementar um campo de **busca/filtro** para os Resumos    | ✅     |
+| Dia | Tópico                                                                 | Status |
+|-----|------------------------------------------------------------------------|--------|
+| 1   | Integração e Setup                                                     | ✅     |
+| 2   | Criação do Mini Portfólio                                              | ✅     |
+| 3   | Modo Escuro e Melhorias                                                | ✅     |
+| 4   | To-Do List + LocalStorage                                              | ✅     |
+| 5   | Gerador de Senhas aleatórias                                           | ✅     |
+| 6   | Conversor de Moedas                                                    | ✅     |
+| 7   | Calculadora IMC                                                        | ✅     |
+| 8   | Cronômetro / Timer                                                     | ✅     |
+| 9   | Contador de Caracteres                                                 | ✅     |
+| 10  | Plataforma de Estudos Colaborativos (Setup)                            | ✅     |
+| 11  | Backend + Node.js + MongoDB (Setup e rotas iniciais)                   | ✅     |
+| 12  | Backend + MongoDB + Postman                                            | ✅     |
+| 13  | Rotas PUT & DELETE + Validações                                        | ✅     |
+| 14  | Integração do frontend com o backend                                   | ✅     |
+| 15  | Fluxo de CRUD e Frontend (cadastros de resumos)                        | ✅     |
+| 16  | Exclusão (DELETE) e Edição (PUT)                                       | ✅     |
+| 17  | Organizar e criar interfaces dos flashcards                            | ✅     |
+| 18  | Fluxo de CRUD e Frontend (cadastros de flashcards)                     | ✅     |
+| 19  | Aprimorar o formulário com validações adicionais                       | ✅     |
+| 20  | Implementar a edição de flashcards                                     | ✅     |
+| 21  | Implementar botão "Cancelar Edição" de flashcards                      | ✅     |
+| 22  | Refinar os feedbacks ao usuário + botao "Deletar" flashcard            | ✅     |
+| 23  | Sistema de notificações "toast" mais profissional                      | ✅     |
+| 24  | Adicionar um estado de *loading* visual nos botões                     | ✅     |
+| 25  | Implementar um campo de **busca/filtro** e botão **Voltar ao topo**    | ✅     |
+| 26  | Substituir os `confirm()` de exclusão por um **Modal customizado**     | 🔁     |
 ---
 ## 📁 Organização
 
@@ -148,11 +149,12 @@ Novos projetos serão adicionados diariamente ao longo do desafio. Fique de olho
 - [ 📁 dia22-delete-flashcards](./dia22-delete-flashcards/anotacoes.md)
 - [ 📁 dia23-feedback-com-toasts](./dia23-feedback-com-toasts/anotacoes.md)
 - [ 📁 dia24-loading-e-mostrar-mais](./dia24-loading-e-mostrar-mais/anotacoes.md)
+- [ 📁 dia25-filtros-e-ux](./dia25-filtros-e-ux/anotacoes.md)
 ---
 
 **✨ Estou comprometido em seguir firme nesse desafio, aprendendo algo novo a cada dia e deixando meu mini portfólio cada vez mais completo e profissional. Obrigado por acompanhar essa jornada! 🙌**
 
-## 📅 Última atualização: 12 de Agosto de 2025.
+## 📅 Última atualização: 13 de Agosto de 2025.
 
 **🔗 Link para visualizar meu Mini Portfólio:**  
 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
